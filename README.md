@@ -53,8 +53,8 @@ Give your team the most memorable meeting sign-off in remote work history!
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/hamzach9410/vanish_webcam..git
-cd vanish_webcam.
+git clone https://github.com/hamzach9410/vanish_webcam.git
+cd vanish_webcam
 ```
 
 ### 2. Setup environment
